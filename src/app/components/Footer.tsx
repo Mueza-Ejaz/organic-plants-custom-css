@@ -34,7 +34,7 @@ const Footer = () => {
 </div>
 
 <div className="copyright"><p>
-Copyright © 2024 Organic. All rights reserved. Muhammad Shahroz
+Copyright © 2024 Organic. All rights reserved. Mueza Ejaz
     </p></div>
 
 </footer>   
